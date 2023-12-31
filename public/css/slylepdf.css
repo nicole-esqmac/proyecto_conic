@@ -1,0 +1,10 @@
+/*----------  Diseño Tabla styles  ----------*/
+.no-border{
+    border-style: none;
+}
+
+.tbody, td, tfoot, th, thead, tr {
+    border-color: inherit;
+    border-style: none;
+    border-width: 0;
+}
